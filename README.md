@@ -1,6 +1,6 @@
 # Overview-of-Colaboratory-Features
 Overview of Colaboratory Features
-NumPy
+NumPy library 
 Pandas
 Matplotlib
 skiit Learn
